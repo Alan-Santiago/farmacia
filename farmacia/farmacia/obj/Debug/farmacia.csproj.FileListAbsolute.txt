@@ -1,0 +1,27 @@
+C:\Users\alan\Documents\programacion y orientacion de objetos\ejercicio para entregar3\farmacia\farmacia\bin\Debug\farmacia.exe.config
+C:\Users\alan\Documents\programacion y orientacion de objetos\ejercicio para entregar3\farmacia\farmacia\bin\Debug\farmacia.exe
+C:\Users\alan\Documents\programacion y orientacion de objetos\ejercicio para entregar3\farmacia\farmacia\bin\Debug\farmacia.pdb
+C:\Users\alan\Documents\programacion y orientacion de objetos\ejercicio para entregar3\farmacia\farmacia\obj\Debug\farmacia.csprojResolveAssemblyReference.cache
+C:\Users\alan\Documents\programacion y orientacion de objetos\ejercicio para entregar3\farmacia\farmacia\obj\Debug\agregar informacion.g.cs
+C:\Users\alan\Documents\programacion y orientacion de objetos\ejercicio para entregar3\farmacia\farmacia\obj\Debug\MainWindow.g.cs
+C:\Users\alan\Documents\programacion y orientacion de objetos\ejercicio para entregar3\farmacia\farmacia\obj\Debug\venta.g.cs
+C:\Users\alan\Documents\programacion y orientacion de objetos\ejercicio para entregar3\farmacia\farmacia\obj\Debug\App.g.cs
+C:\Users\alan\Documents\programacion y orientacion de objetos\ejercicio para entregar3\farmacia\farmacia\obj\Debug\farmacia_MarkupCompile.cache
+C:\Users\alan\Documents\programacion y orientacion de objetos\ejercicio para entregar3\farmacia\farmacia\obj\Debug\farmacia_MarkupCompile.lref
+C:\Users\alan\Documents\programacion y orientacion de objetos\ejercicio para entregar3\farmacia\farmacia\obj\Debug\agregar informacion.baml
+C:\Users\alan\Documents\programacion y orientacion de objetos\ejercicio para entregar3\farmacia\farmacia\obj\Debug\MainWindow.baml
+C:\Users\alan\Documents\programacion y orientacion de objetos\ejercicio para entregar3\farmacia\farmacia\obj\Debug\venta.baml
+C:\Users\alan\Documents\programacion y orientacion de objetos\ejercicio para entregar3\farmacia\farmacia\obj\Debug\farmacia.g.resources
+C:\Users\alan\Documents\programacion y orientacion de objetos\ejercicio para entregar3\farmacia\farmacia\obj\Debug\farmacia.Properties.Resources.resources
+C:\Users\alan\Documents\programacion y orientacion de objetos\ejercicio para entregar3\farmacia\farmacia\obj\Debug\farmacia.csproj.GenerateResource.Cache
+C:\Users\alan\Documents\programacion y orientacion de objetos\ejercicio para entregar3\farmacia\farmacia\obj\Debug\farmacia.csproj.CoreCompileInputs.cache
+C:\Users\alan\Documents\programacion y orientacion de objetos\ejercicio para entregar3\farmacia\farmacia\obj\Debug\farmacia.exe
+C:\Users\alan\Documents\programacion y orientacion de objetos\ejercicio para entregar3\farmacia\farmacia\obj\Debug\farmacia.pdb
+C:\Users\alan\Documents\programacion y orientacion de objetos\ejercicio para entregar3\farmacia\farmacia\obj\Debug\categoria.g.cs
+C:\Users\alan\Documents\programacion y orientacion de objetos\ejercicio para entregar3\farmacia\farmacia\obj\Debug\cliente.g.cs
+C:\Users\alan\Documents\programacion y orientacion de objetos\ejercicio para entregar3\farmacia\farmacia\obj\Debug\empleado.g.cs
+C:\Users\alan\Documents\programacion y orientacion de objetos\ejercicio para entregar3\farmacia\farmacia\obj\Debug\producto.g.cs
+C:\Users\alan\Documents\programacion y orientacion de objetos\ejercicio para entregar3\farmacia\farmacia\obj\Debug\categoria.baml
+C:\Users\alan\Documents\programacion y orientacion de objetos\ejercicio para entregar3\farmacia\farmacia\obj\Debug\cliente.baml
+C:\Users\alan\Documents\programacion y orientacion de objetos\ejercicio para entregar3\farmacia\farmacia\obj\Debug\empleado.baml
+C:\Users\alan\Documents\programacion y orientacion de objetos\ejercicio para entregar3\farmacia\farmacia\obj\Debug\producto.baml
